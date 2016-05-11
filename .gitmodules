@@ -1,0 +1,3 @@
+[submodule "testLib"]
+	path = testLib
+	url = git@github.com:daihuido/testLib.git
